@@ -1,3 +1,3 @@
-# test01
-第一次初始化项目
-by cncounter 
+LispGentleIntro
+===============
+Lisp-符号计算入门指引翻译
